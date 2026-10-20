@@ -1,0 +1,15 @@
+{
+  "data_coleta": "2026-10-19",
+  "categorias": {
+    "FIIs": 100,
+    "Negócios": 116,
+    "Fiagro": 100
+  },
+  "candidatos": 436,
+  "paginas_por_categoria": 14,
+  "alvo_por_categoria": 100,
+  "rotulos": "categoria primária editorial do cabeçalho da notícia, sem inferência por palavras-chave",
+  "escopo": "mercado financeiro, com FIIs e Fiagro além das ações do recorte inicial",
+  "fonte": "Status Invest",
+  "selecionados_por_ordem": "ordem de descoberta das URLs nas listagens; amostra de conveniência"
+}

@@ -1,0 +1,10 @@
+{
+  "bert": {
+    "id": "neuralmind/bert-base-portuguese-cased",
+    "revision": "94d69c95f98f7d5b2a8700c420230ae10def0baa"
+  },
+  "sentimento": {
+    "id": "lucas-leme/FinBERT-PT-BR",
+    "revision": "c3bf75c85f9b1b0dd257d688822d64390420936c"
+  }
+}
